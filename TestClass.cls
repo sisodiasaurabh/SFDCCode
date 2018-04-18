@@ -31,6 +31,10 @@ public class TestClass{
         set;
     }
     
+    public void abc()
+    {
+    
+    }
     public void search()
     {
         
